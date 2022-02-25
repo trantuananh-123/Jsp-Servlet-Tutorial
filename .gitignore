@@ -1,2 +1,8 @@
 **/*.iml
 **/*.idea
+/ResponseCode/HTTPResponseCode/nbproject/private/
+/ResponseCode/HTTPResponseCode/build/
+/Servlet Redirect/ServletRedirect/nbproject/private/
+/Servlet Redirect/ServletRedirect/build/
+/Servlet Cookies/ServletCookies/nbproject/private/
+/Servlet Cookies/ServletCookies/build/
